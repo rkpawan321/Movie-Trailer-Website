@@ -37,3 +37,6 @@ RUNNING LOCALLY
 2. Run python ./entertainment_center.py
 3. The program will open a browser windows and display the movie posters ready to be clicked for a movie trailer playback
 
+Creator :
+Pawan R K
+rkpawan321@gmail.com
