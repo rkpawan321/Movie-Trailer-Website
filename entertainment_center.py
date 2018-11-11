@@ -38,9 +38,6 @@ thor = media.Movie("Thor Ragnarok",
                    "https://upload.wikimedia.org/wikipedia/en/7/7d/Thor_Ragnarok_poster.jpg",
                    "https://youtu.be/ue80QwXMRHg")
 
-
-
-
 movies = [toy_story , avatar ,venom, aquaman, infinity , thor]
 
 """ Calling open_movies_page method to view movie website
