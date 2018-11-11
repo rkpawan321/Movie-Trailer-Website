@@ -2,9 +2,11 @@
 The code stores a list of movie titles, poster images, and movie trailer URLs.  This information is displayed on a web page and allow users to review the movies and watch the trailers.
 
 This is my project submission for the Udacity "Python Foundation" Nanodegree. 
+
 Project Title : "Movie Trailer Website"
 
 IN BRIEF WHAT DOES IT DO ?
+  
   When you run entertainment_center.py, a web page will be created and a list of movies will be displayed.
 In this webpage "Movie Trailer Website" users can see my favorite movies along with its poster image and watch the trailers. 
 
