@@ -36,4 +36,4 @@ fresh_tomatoes.py : The Python module called fresh_tomatoes.py has a function ca
 RUNNING LOCALLY
 1. On the command line ,navigate to project directory.
 2. Run python ./entertainment_center.py
-3. The program will open a browser windows and display the movie posters ready to be clicked for a movie trailer playback
+3. The program will open a browser windows and display the movie posters ready to be clicked for a movie trailer playback.
