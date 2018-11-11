@@ -10,11 +10,12 @@ IN BRIEF WHAT DOES IT DO ?
   When you run entertainment_center.py, a web page will be created and a list of movies will be displayed.
 In this webpage "Movie Trailer Website" users can see my favorite movies along with its poster image and watch the trailers. 
 
-REQUIREMENTS
-Python 3.6
+REQUIREMENTS : 
+
+Python 3.6 ,
 Web Browser
 
-WHAT'S INCLUDED
+WHAT'S INCLUDED ? 
 Within the download you'll find the following files:
 -media.py
 -entertainment_center.py
