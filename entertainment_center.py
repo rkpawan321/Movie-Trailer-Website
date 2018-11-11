@@ -10,7 +10,7 @@ toy_story = media.Movie("Toy Story" ,
                         "A story of a boy and his toys that come to life" ,
                         "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
                         "https://youtu.be/KYz2wyBy3kc")
-#print(toy_story.storyline)
+
 
 avatar = media.Movie("Avatar",
                      "A marine on an alien planet",
@@ -39,7 +39,7 @@ thor = media.Movie("Thor Ragnarok",
                    "https://youtu.be/ue80QwXMRHg")
 
 
-#print(media.Movie.VALID_RATINGS)
+
 
 movies = [toy_story , avatar ,venom, aquaman, infinity , thor]
 
@@ -48,6 +48,4 @@ movies = [toy_story , avatar ,venom, aquaman, infinity , thor]
 fresh_tomatoes.open_movies_page(movies)
 
 
-#print(avatar.storyline)
-#avatar.show_trailer()
-#avatar.show_poster()
+
