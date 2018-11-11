@@ -24,6 +24,7 @@ Within the download you'll find the following files:
 
 
 DESCRIPTION ABOUT THE FILES
+
 media.py : The Movie Class in the media.py module creates a data structure to store your favorite movies, including movie title, 
            box art URL (or poster URL) and a YouTube link to the movie trailer.
 
