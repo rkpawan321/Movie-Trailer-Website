@@ -17,10 +17,11 @@ Web Browser
 
 WHAT'S INCLUDED ? 
 Within the download you'll find the following files:
+
 -media.py
--entertainment_center.py
--fresh_tomatoes.py
--README.txt
+  ;  entertainment_center.py
+  ;  fresh_tomatoes.py
+  ;  README.txt
 
 
 DESCRIPTION ABOUT THE FILES
